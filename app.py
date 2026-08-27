@@ -10,7 +10,6 @@ import json
 from datetime import datetime, timedelta
 import hashlib
 import uuid
-import plotly.express as px
 
 # ============================================================================
 # CONFIGURATION
